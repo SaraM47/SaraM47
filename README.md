@@ -6,4 +6,4 @@ I have a background as a certified healthcare assistant. I have always had a str
 ### My Interest
 - Digital art and illustrations
 - Digital software using tools like Inkscape, and Procreate, and I have some basic knowledge of Photoshop.
-* Also still learning and exploring UI/UX design to understand how to create user-friendly interfaces 
+- Also still learning and exploring UI/UX design to understand how to create user-friendly interfaces 
