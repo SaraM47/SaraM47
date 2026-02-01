@@ -1,9 +1,24 @@
-## Hello and welcome everybody 👋
-###  Introduction
-I am Sara and I am currently studying to become a web programmer. I will update this profile as I improve my programming skills!
-I have a background as a certified healthcare assistant. I have always had a strong interest in helping others and providing care, but at the same time, I am passionate about everything related to **design** and **digital art**. I recently discovered my passion for **web development**, and it has been an exciting journey so far! The idea of me to build creative, functional websites and bringing ideas to life is a goal I hopefully want to achieve in the future. As I explore **HTML**, **CSS**, and **JavaScript**, I'm constantly learning new techniques and tools to improve my skills. I'm eager to continue growing as a web developer and dive deeper into front-end and back-end technologies. 
+# Hi there 👋
 
-### My Interest
-- Digital art and illustrations
-- Digital software using tools like Inkscape, and Procreate, and I have some basic knowledge of Photoshop.
-- Also still learning and exploring UI/UX design to understand how to create user-friendly interfaces 
+I'm Sara, a web development student based in Sweden.
+
+I design and build clean, simple web applications while learning modern frontend and backend development.
+
+I map ideas, design them, and turn them into functional web applications.
+
+## Currently working on
+- React and TypeScript projects
+- Full-stack web development
+- UI and UX design principles
+- Accessibility and usability
+
+## Tech & Tools
+HTML, CSS, JavaScript, TypeScript, React, Vue, Angular, .NET, C#, SCSS, Tailwind CSS. My favorite tool is Figma.
+
+## Projects
+You can find my projects pinned below.
+
+## Fun facts
+- I'm a self-taught artist doing art and illustration in Procreate on my iPad.
+- UI and UX curiosity
+- Background in healthcare
